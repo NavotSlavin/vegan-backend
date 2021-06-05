@@ -1,2 +1,2 @@
 # vegan-backend
-vegan BE side with afik
+vegan BE side with Navot, Afik & Gal
